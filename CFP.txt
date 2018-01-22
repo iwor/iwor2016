@@ -1,0 +1,119 @@
+
+Call for papers: 1st International Workshop on Refactoring (IWoR 2016)
+
+September 4, 2016, Singapore, Singapore.
+http://www.softrefactoring.com/
+
+Co-located with the 31st IEEE/ACM Automated Software Engineering Conference (ASE 2016)
+
+Important Dates
+------------------------------
+Deadline for submissions: June 13, 2016
+Notification of authors: July 3, 2016
+Camera-ready: July 20, 2016
+Workshop date: September 4, 2016
+                  
+Workshop summary
+------------------------------
+Successful software products evolve through a process of continuous changes as bugs are fixed,
+new features added, and quality issues addressed. Refactoring supports the volatile
+software lifecycle by providing better ways to reduce and manage the growing complexity of
+software systems while improving developer productivity. Refactoring can be performed at all
+levels from requirement specification down to source code level, and, in essence, involves
+improving the internal structure of a software artefact without altering its functionality.
+In spite of the popularity of refactoring both in practice and as a research topic, many open
+questions remain, particularly in terms of understanding how refactoring is performed, measuring
+the impact of refactoring, and improving tool support in all areas of refactoring.
+
+We invite submissions from both academia and industry on any topic that is refactoring
+related, including, but not limited to:
+
+ - Source code refactoring
+ - Requirement, design and architectural refactoring
+ - Refactoring of mobile, web and cloud applications
+ - Refactoring opportunities detection and recommendation
+ - Tool support for refactoring
+ - Mining refactoring changes from software repositories
+ - Evaluation and benchmarking of refactoring methods
+ - Refactoring in Model Driven Engineering
+ - Code smell detection and correction
+ - Search based refactoring
+ - Effect of refactoring on system complexity and quality
+ - Empirical studies and experience reports
+ - Software remodularization
+ - Model transformation
+ - Introduction of design patterns through refactoring
+ - Machine learning applied to software refactoring
+ - Role of refactoring in evolution and migration
+ - Refactoring in the software lifecycle
+ - Refactoring and testing
+
+Workshop format
+------------------------------
+The objective of the 1st ACM International Workshop on Refactoring (IWoR 2016)
+is to provide an informal interactive forum for researchers and practitioners to
+exchange ideas and experiences, streamline and foster research on software refactoring,
+identify some common ground for their work, share lessons and challenges, thereby
+articulating a vision for the future of software refactoring research.
+
+We solicit four types of submissions: full research papers (max 8 pages), position papers (max 4 pages),
+and tool demo papers (max 4 pages), and industrial presentation. Please check the website for more information.
+
+Proceedings and Special Issue
+------------------------------
+Accepted papers will be published in the workshop proceedings in the ACM digital library.
+
+A selection of the best papers will be invited to submit extended versions for tentative publication in a Special 
+Issue of the journal Information and Software Technology published by Elsevier.
+Journal website: http://www.elsevier.com/locate/infsof
+
+Submission
+------------------------------
+All submissions must be formatted according to the ACM style (http://www.acm.org/sigs/publications/proceedings-templates  
+LaTeX users, use the style Option 2) and should be submitted through EasyChair at: https://easychair.org/conferences/?conf=iwsr2016
+
+Each paper will be reviewed by at least three referees.
+
+Organization
+------------------------------
+General Chair:
+ - Ali Ouni, Osaka University, Japan
+
+Program Co-Chairs:
+ - Marouane Kessentini, University of Michigan, USA
+ - Mel Ó Cinnéide, University College Dublin, Ireland
+
+Publication Chair:
+ - Norihiro Yoshida, Nagoya University, Japan
+
+Web Chair:
+ - Wiem Mkaouer, University of Michigan, USA
+
+Program Committee:
+ - Aiko Yamashita, Oslo and Akershus University College of Applied Sciences, Norway
+ - Christopher Simons, University of the West of England, UK
+ - Christian Bird, Microsoft Research, USA
+ - Danny Dig, Oregon State University, USA
+ - Don Batory, University of Texas at Austin, USA
+ - Francesca Arcelli Fontana, University of Milano Bicocca, Italy
+ - Gabriele Bavota, Free University of Bozen-Bolzano, Italy
+ - Gustavo Pinto, UFPE, Brazil
+ - Houari Sahraoui, Université de Montréal, Canada
+ - Iman Hemati Moghadam, Vali-Asr University, Iran
+ - Jeff Gray, University of Alabama, USA
+ - Jun Sun, Singapore University of Technology and Design, Singapore
+ - Katsuro Inoue, Osaka University, Japan
+ - Manuel Wimmer, Vienna University of Technology, Austria
+ - Mark Harman, University College London, UK
+ - Massimiliano Di Penta, University of Sannio, Italy
+ - Nikolaos Tsantalis,Concordia University, Canada
+ - Serge Demeyer, Universiteit Antwerpen (ANSYMO), Belgium
+ - Shinpei Hayashi, Tokyo Institute of Technology, Japan
+ - Simon Thompson, University of Kent, UK
+ - Steve Counsell, Brunel University, UK
+ - Tom Mens, University of Mons, Belgium
+ - Wiem Mkaouer, University of Michigan, USA
+ - Xin Peng, Fudan University, China
+ - Yoshiki Higo, Osaka University, Japan
+ - Yun Lin, Singapore University of Technology and Design, Singapore
+
